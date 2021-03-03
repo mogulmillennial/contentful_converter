@@ -40,6 +40,7 @@ module ContentfulConverter
       'section' => Nodes::Paragraph,
       'embed' => Nodes::Embed,
       'img' => Nodes::Embed,
+      'figure' => Nodes::Embed,
       'hr' => Nodes::HorizontalLine,
       'blockquote' => Nodes::Blockquote,
       'ul' => Nodes::UnorderedList,
